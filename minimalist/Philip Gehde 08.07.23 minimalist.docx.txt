@@ -1,0 +1,67 @@
+﻿philip@meiers.in | (925)-725-9119 | github.com/codephilip
+Philip Gehde
+Professional Experience
+ Software Developer, AEI Environmental Consultants (Feb. 2020 - Current)
+* Led development and implementation of a companywide invoicing system, resulting in +$300,000 annual cost reduction.
+* Streamlined data consolidation between systems, improving decision-making and operational effectiveness across the organization.
+* Developed custom solutions in Python to enhance Sharepoint DMS functionality and provided automation tools to boost accounting department productivity.
+* Improved SEO and performance of the company's WordPress website, leading to increased organic traffic and better user experience.
+
+
+Full-Stack Developer, Upworks.com and Freelancer.com (Jan. 2019 - Current)
+* Contributed to concert/event ticket booking software, specializing in UI/UX development and creating efficient table-based features.
+* Collaborated on a booking application for a travel agency using Rails 6, gaining valuable insights into full-stack development and agile methodologies.
+ 
+Coding Instructor, The Coder School (May 2017 - Feb. 2018, May 2023 - Current)
+* Taught 100+ hours of private lessons and classes of up to 10 students in programming fundamentals including subjects like OOP, Software Architecture, Data Structures and Algorithms, Test Driven Development (TDD), and project management.
+* Tutored students ranging from high school to postgraduate level in a variety of languages and libraries involving HTML & CSS, JavaScript, Python, and C++
+
+
+Founder & Lead Developer, Quant Designs LLC (Jan. 2017 - Jan. 2019)
+* Developed custom Python scripts for advanced financial data analysis and investment decisions.
+* Engineered Python scripts for proactive monitoring of financial markets and timely alerts on investment opportunities.
+* Designed multiple websites for local businesses with SEO optimization to drive organic traffic.
+
+
+Front-End Developer (UX&UI), Telstar Publishing (May 2017 - Feb 2018)
+* Developed visually appealing and responsive websites using HTML5, CSS3, Vanilla JS, and Ajax, following SEO best practices.
+* Achieved quantifiable metrics of increased user engagement and improved conversion rates.
+ 
+Web Host, American Originals (May 2017 - Feb 2018)
+* Developed an e-commerce platform via XCart and managed customer care and service for merchandise sales. 
+Education:
+* Bachelor of Science in Computer Science (w/ honors), Montana State University, Bozeman, MT, 2020-2022
+* Associate degrees in Computer Science & Mathematics, Diablo Valley College, 2017-2019
+* International Baccalaureate, Stonehill International School, Bangalore, India, 2010-2012
+Languages: 
+* Native in German and English.
+Skills:
+* Rapid Prototyping, Agile/Scrum, TDD
+* Proficient in Windows (Server and Client OS), Linux (Ubuntu), MacOS
+* Experienced with Visual Studio Code, Atom, IntelliJ, PyCharm, Eclipse, Android Studio, Jupyter.
+* Experienced working with Git and project management tools like Monday.com and Jira.
+* Proficient in HTML, CSS, JavaScript, Python.
+* Experienced in various frameworks, including React, NodeJS & Express, NextJS, Rails, as well as Python Standard Libraries like Pandas and Numpy.
+* Experienced with both relational and non-relational databases, as well as in-memory-data-structure stores (Redux)
+* Proficient in design software like Figma, Adobe PS, and AI
+* Background in Compilers, low-level languages like Assembly, and Networks
+* Thrives in fast-paced work environments, delivering under pressure.
+* Adaptable to different development workflows, whether in-person or remote.
+* Experienced in collaborating with both small and large development teams.
+* Passionate about project management.
+* Self-directed in studying new technologies and software development tools.
+* Effective communicator with clients and teammates.
+* Goal-oriented mindset with exceptional teamwork and time management skills
+
+
+
+
+
+
+
+
+
+
+
+
+References available upon request.
